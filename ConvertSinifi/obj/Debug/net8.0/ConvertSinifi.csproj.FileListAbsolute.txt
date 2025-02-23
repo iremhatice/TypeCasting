@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\bin\Debug\net8.0\ConvertSinifi.exe
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\bin\Debug\net8.0\ConvertSinifi.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\bin\Debug\net8.0\ConvertSinifi.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\bin\Debug\net8.0\ConvertSinifi.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\bin\Debug\net8.0\ConvertSinifi.pdb
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ConvertSinifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ConvertSinifi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ConvertSinifi.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ConvertSinifi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ConvertSinifi.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ConvertSinifi.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\refint\ConvertSinifi.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ConvertSinifi.pdb
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ConvertSinifi.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ConvertSinifi\obj\Debug\net8.0\ref\ConvertSinifi.dll

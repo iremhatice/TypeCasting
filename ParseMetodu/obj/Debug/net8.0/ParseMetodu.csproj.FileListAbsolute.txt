@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\bin\Debug\net8.0\ParseMetodu.exe
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\bin\Debug\net8.0\ParseMetodu.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\bin\Debug\net8.0\ParseMetodu.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\bin\Debug\net8.0\ParseMetodu.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\bin\Debug\net8.0\ParseMetodu.pdb
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ParseMetodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ParseMetodu.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ParseMetodu.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ParseMetodu.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ParseMetodu.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ParseMetodu.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\refint\ParseMetodu.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ParseMetodu.pdb
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ParseMetodu.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ParseMetodu\obj\Debug\net8.0\ref\ParseMetodu.dll

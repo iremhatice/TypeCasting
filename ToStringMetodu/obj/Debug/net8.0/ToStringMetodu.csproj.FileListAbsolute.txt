@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\bin\Debug\net8.0\ToStringMetodu.exe
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\bin\Debug\net8.0\ToStringMetodu.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\bin\Debug\net8.0\ToStringMetodu.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\bin\Debug\net8.0\ToStringMetodu.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\bin\Debug\net8.0\ToStringMetodu.pdb
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ToStringMetodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ToStringMetodu.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ToStringMetodu.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ToStringMetodu.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ToStringMetodu.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ToStringMetodu.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\refint\ToStringMetodu.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ToStringMetodu.pdb
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ToStringMetodu.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\ToStringMetodu\obj\Debug\net8.0\ref\ToStringMetodu.dll

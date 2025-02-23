@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\TypeCasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{671C0EC0-7F00-4642-BDC5-0476FDBE2712}|ParseMetodu\\3-ParseMetodu.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\typecasting\\parsemetodu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671C0EC0-7F00-4642-BDC5-0476FDBE2712}|ParseMetodu\\3-ParseMetodu.csproj|solutionrelative:parsemetodu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9281B27-C750-410D-AED0-8D7F964A1A2D}|ConvertSinifi\\2-ConvertSinifi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\typecasting\\convertsinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9281B27-C750-410D-AED0-8D7F964A1A2D}|ConvertSinifi\\2-ConvertSinifi.csproj|solutionrelative:convertsinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\TypeCasting\\ParseMetodu\\Program.cs",
+              "RelativeDocumentMoniker": "ParseMetodu\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\TypeCasting\\ParseMetodu\\Program.cs",
+              "RelativeToolTip": "ParseMetodu\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:24:36.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\TypeCasting\\ConvertSinifi\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertSinifi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\TypeCasting\\ConvertSinifi\\Program.cs",
+              "RelativeToolTip": "ConvertSinifi\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:23:11.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

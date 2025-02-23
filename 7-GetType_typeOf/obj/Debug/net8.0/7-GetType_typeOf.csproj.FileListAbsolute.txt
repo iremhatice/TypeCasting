@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\bin\Debug\net8.0\7-GetType_typeOf.exe
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\bin\Debug\net8.0\7-GetType_typeOf.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\bin\Debug\net8.0\7-GetType_typeOf.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\bin\Debug\net8.0\7-GetType_typeOf.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\bin\Debug\net8.0\7-GetType_typeOf.pdb
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\7-GetType_typeOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\7-GetType_typeOf.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\7-GetType_typeOf.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\7-GetType_typeOf.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\7-GetType_typeOf.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\7-GetType_typeOf.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\refint\7-GetType_typeOf.dll
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\7-GetType_typeOf.pdb
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\7-GetType_typeOf.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\TypeCasting\7-GetType_typeOf\obj\Debug\net8.0\ref\7-GetType_typeOf.dll

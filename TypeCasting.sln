@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-TipDonusumleri", "TipDonusumleri\1-TipDonusumleri.csproj", "{9A53E2CE-830C-4340-A534-8BAE7B923515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-ConvertSinifi", "ConvertSinifi\2-ConvertSinifi.csproj", "{F9281B27-C750-410D-AED0-8D7F964A1A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-ParseMetodu", "ParseMetodu\3-ParseMetodu.csproj", "{671C0EC0-7F00-4642-BDC5-0476FDBE2712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-TryParseMetodu", "TryParseMetodu\5-TryParseMetodu.csproj", "{5CB1EEA4-07D8-4F92-AECE-91180819DBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ToStringMetodu", "ToStringMetodu\4-ToStringMetodu.csproj", "{1B849095-25D0-4DAF-B0D5-DD7683EB2A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Is_As_Kullanimi", "6-Is_As_Kullanimi\6-Is_As_Kullanimi.csproj", "{DEF463D4-088C-4B79-BF9D-3DEA3C90BE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-GetType_typeOf", "7-GetType_typeOf\7-GetType_typeOf.csproj", "{32AF5623-09DB-44E8-ACFE-3AF3A7DAC061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A53E2CE-830C-4340-A534-8BAE7B923515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A53E2CE-830C-4340-A534-8BAE7B923515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A53E2CE-830C-4340-A534-8BAE7B923515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A53E2CE-830C-4340-A534-8BAE7B923515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9281B27-C750-410D-AED0-8D7F964A1A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9281B27-C750-410D-AED0-8D7F964A1A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9281B27-C750-410D-AED0-8D7F964A1A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9281B27-C750-410D-AED0-8D7F964A1A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671C0EC0-7F00-4642-BDC5-0476FDBE2712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671C0EC0-7F00-4642-BDC5-0476FDBE2712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671C0EC0-7F00-4642-BDC5-0476FDBE2712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671C0EC0-7F00-4642-BDC5-0476FDBE2712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB1EEA4-07D8-4F92-AECE-91180819DBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB1EEA4-07D8-4F92-AECE-91180819DBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB1EEA4-07D8-4F92-AECE-91180819DBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB1EEA4-07D8-4F92-AECE-91180819DBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B849095-25D0-4DAF-B0D5-DD7683EB2A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B849095-25D0-4DAF-B0D5-DD7683EB2A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B849095-25D0-4DAF-B0D5-DD7683EB2A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B849095-25D0-4DAF-B0D5-DD7683EB2A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF463D4-088C-4B79-BF9D-3DEA3C90BE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF463D4-088C-4B79-BF9D-3DEA3C90BE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF463D4-088C-4B79-BF9D-3DEA3C90BE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF463D4-088C-4B79-BF9D-3DEA3C90BE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AF5623-09DB-44E8-ACFE-3AF3A7DAC061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AF5623-09DB-44E8-ACFE-3AF3A7DAC061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AF5623-09DB-44E8-ACFE-3AF3A7DAC061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AF5623-09DB-44E8-ACFE-3AF3A7DAC061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19833674-88C0-4FBE-BCC4-FDEBEFB771A6}
+	EndGlobalSection
+EndGlobal
